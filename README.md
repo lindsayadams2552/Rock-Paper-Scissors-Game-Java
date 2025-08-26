@@ -14,7 +14,9 @@ This project was developed in **Apache NetBeans** using its **drag-and-drop GUI 
 - Scissors cuts paper
 - Paper covers rock
 - Same move from each opponent is a tie
+```
 Examples:
+```
 - User clicks Rock → Computer chooses Scissors → “Rock crushes scissors, User wins!”
 - User clicks Paper → Computer chooses Rock → “Paper covers rock, User wins!”
 - User clicks Scissors → Computer chooses Scissors → “It’s a tie!”
@@ -61,6 +63,7 @@ You can watch the demo video here:
 ---
 
 ## Project Structure
+```
 RockPaperScissors/
 ├── JavaApplication/
 │ ├── nbproject/ # NetBeans project configuration files
@@ -81,11 +84,11 @@ RockPaperScissors/
 │ ├── recording.conf
 │ ├── video1849913667.mp4
 ├── README.md # Documentation (this file)
-
+```
 ---
 
 ## Project Info
-**Author:** Lindsay Adams
-**Date:** 08/04/2023
-**Course:** Java Programming (Professor Ruiz)
-**IDE:** Apache NetBeans
+- **Author:** Lindsay Adams
+- **Date:** 08/04/2023
+- **Course:** Java Programming (Professor Ruiz)
+- **IDE:** Apache NetBeans

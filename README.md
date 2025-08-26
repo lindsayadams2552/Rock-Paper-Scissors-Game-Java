@@ -16,10 +16,10 @@ This project was developed in **Apache NetBeans** using its **drag-and-drop GUI 
 - Same move from each opponent is a tie
 ```
 Examples:
-```
 - User clicks Rock → Computer chooses Scissors → “Rock crushes scissors, User wins!”
 - User clicks Paper → Computer chooses Rock → “Paper covers rock, User wins!”
 - User clicks Scissors → Computer chooses Scissors → “It’s a tie!”
+```
 
 ---
 
